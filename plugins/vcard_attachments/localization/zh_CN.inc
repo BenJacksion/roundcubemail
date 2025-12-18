@@ -19,4 +19,6 @@ $labels['vcardsavefailed'] = '无法保存 vCard';
 $labels['attachvcard'] = '附加 vCard';
 $labels['vcardattached'] = '已附加 vCard 文件';
 $labels['vcard'] = 'vCard';
-$labels['forwardvcard'] = '转发 ';
+$labels['forwardvcard'] = '转发';
+$labels['contactsattached'] = '此邮件包含 $num 个联系人附件。';
+$labels['importedsuccessfully'] = '联系人已成功导入到地址簿。';
